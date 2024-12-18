@@ -17,10 +17,7 @@ Please note that the uploading of this code is not for plagiarism, cheating, or 
 - Risk prediction model development
 - Fairness analysis across demographic groups
 - Cost-benefit analysis of interventions
-- Model performance evaluation using:
---Positive Predictive Value (PPV)
--- False Positive Rate (FPR)
--- ROC AUC scoring
+- Model performance evaluation using: 1. Positive Predictive Value (PPV) 2. False Positive Rate (FPR) 3. ROC AUC scoring
 
 ## Data Analysis
 Analyzes multiple aspects of criminal justice data:
